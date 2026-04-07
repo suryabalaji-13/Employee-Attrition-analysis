@@ -1,54 +1,24 @@
-## Employee Attrition Analysis
-
-### Objective
-Analyze employee data to identify key factors influencing attrition and support data-driven HR decisions.
-
-### Dataset
-- Source: Kaggle  
-- Contains employee demographic, job, and performance-related variables
-
-### Analysis Performed
-- Attrition distribution analysis  
-- Attrition vs age  
-- Attrition vs income  
-- Attrition vs job satisfaction  
-- Attrition vs years of experience  
-
----
-
 ### Key Visualizations
 
 #### Gender Distribution
 ![Gender](gender_distribution.png)
+- Workforce shows higher representation of male employees
 
 #### Marital Status Distribution
 ![Marital](marital_distribution.png)
+- Majority of employees are married, followed by single employees
 
 #### Age vs Income
 ![Age Income](age_income.png)
+- Income generally increases with age
+- Significant variation exists within the same age group
 
 #### Job Involvement vs Satisfaction
 ![Involvement](involvement_satisfaction.png)
+- Higher job involvement is associated with higher job satisfaction
+- Most employees fall in moderate to high levels
 
-#### Age vs Performance
+#### Age vs Performance (with Experience)
 ![Performance](age_performance.png)
-
----
-
-### Key Insights
-- Higher attrition observed among employees with lower income  
-- Employees with low job satisfaction are more likely to leave  
-- Early tenure employees show higher turnover rates  
-- Employee involvement and satisfaction show a positive relationship  
-- Performance tends to improve with experience and age  
-
----
-
-### Tools Used
-- Excel  
-- Python (basic data analysis)
-
----
-
-### Conclusion
-This project demonstrates how HR analytics can identify workforce risks and support data-driven decision-making in employee retention.
+- Performance tends to improve with experience and age
+- Higher-rated employees show greater variability in experience
