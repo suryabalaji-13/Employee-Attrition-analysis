@@ -1,4 +1,4 @@
-## Employee Attrition Analysis
+## Employee Performance & Workforce Analytics
 
 ### Objective
 Analyze employee data to identify key factors influencing employee performance and support data-driven HR decisions.
@@ -52,9 +52,9 @@ To enhance the analysis, machine learning models were applied to predict employe
 #### ROC Analysis (AUC Score)
 - Random Forest: **74% AUC**  
 - XGBoost: **71% AUC**
-- #### Model Comparison (ROC Curve)
-![ROC](ROC.png)
 
+#### Model Comparison (ROC Curve)
+![ROC](ROC.png)
 ---
 
 ### Key Takeaways
@@ -67,20 +67,18 @@ To enhance the analysis, machine learning models were applied to predict employe
 ---
 
 ### Tools Used
-- Excel  
-- Python (basic data analysis)
-
+- Excel (Data Analysis & Visualization)  
+- Python (Data Analysis & Machine Learning)
+- 
 ### Business Recommendations
 
-- Focus on improving job satisfaction to enhance employee performance and retention  
+- Focus on improving job satisfaction to enhance employee performance  
 - Develop targeted strategies for early-career employees to reduce turnover risk  
 - Implement engagement programs to increase job involvement levels  
-- Align compensation structures with experience and performance trends
-- Enables identification of high-performing employees with high accuracy  
+- Align compensation structures with experience and performance trends  
+
+### Business Impact
+
+- Enables identification of high-performing employees with up to **86% prediction accuracy**  
 - Supports proactive performance management strategies  
-- Improves decision-making using predictive insights
-
----
-
-### Conclusion
-This project demonstrates how HR analytics can be used to understand workforce patterns, improve employee performance, and support data-driven decision-making.
+- Improves HR decision-making using predictive analytics  
