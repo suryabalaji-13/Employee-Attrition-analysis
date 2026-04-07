@@ -51,7 +51,9 @@ To enhance the analysis, machine learning models were applied to predict employe
 
 #### ROC Analysis (AUC Score)
 - Random Forest: **74% AUC**  
-- XGBoost: **71% AUC**  
+- XGBoost: **71% AUC**
+- #### Model Comparison (ROC Curve)
+![ROC](ROC.png)
 
 ---
 
